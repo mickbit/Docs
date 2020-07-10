@@ -39,26 +39,29 @@ https://www.valireum.net</div>
 
 **Table of content:**
 
-#### **Abstract:**
+# **Abstract:**
+### A brief summery of main headings - purpose is to introduce what comes next in its order
 
-#### **History:**
+# **Objective:**
+## Problems/Limitations in current ecosphere
+## VLM Solutions
+## Game Developers
+## Applications/use case
 
-#### **Problems:**
+# **Technology:**
+## Network
+## V-editor
+## Engine
+## Blockchain features
 
-#### **Solutions:**
+# **VLM Ecosystem:**
+## Monetization system
+## Investors
+## Tokenization 
+## Incentives
+## Market trends/statistics in gaming industry
 
-#### **Investment:**
+# **Summary:**
 
-#### **Gamers:**
 
-#### **Game Developers:**
 
-#### **Technology:**
-
-#### **V Editor:**
-
-#### **Network:**
-
-#### **Tokenization:**
-
-#### **Summary:**
