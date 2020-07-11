@@ -28,27 +28,75 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 **Table of content:**
 
 ### **Section A: Mission Objectives**
-####   1. Problems/Limitations in current ecosphere
+####   1. Problems and Limitations
 ####   2. Valireum Solutions
 ####   3. Game Developers
-####   4. Applications/use case
+####   4. Use Case and Applications
 
 ### **Section B: Our Technology:**
-####   1. Network
-####   2. V-editor
-####   3. Engine
-####   4. Blockchain features
+####   1. The Network
+####   2. V-editor for Developers
+####   3. Engine Support
+####   4. Blockchain Features
 
 ### **Section C: The Valireum Ecosystem:**
-####   1. Mnetization system
-####   2. Investors
-####   3. Tokenization 
+####   1. The Autonomous Mnetization System
+####   2. Investor Options & Opportunities
+####   3. Tokenization & Virtual Assets
 ####   4. Incentives
-####   5. Market trends/statistics in gaming industry
+####   5. Relevant Market Trends
 
 ### **Summary**
 
 --------------------------------------------------------------------------------------------------------------------
 
+(Insert header image)
 
+# **Section A: Mission Objectives**
+## 1. Problems and Limitations 
+(Text paragraphs)
 
+## 2. Valireum Solutions
+(Text paragraphs)
+
+## 3. Game Developers
+(Text paragraphs)
+
+## 4. Use case and Applications
+(Text paragraphs)
+
+(Insert header image)
+
+# **Section B: Our Technology**
+## 1. The Network 
+(Text paragraphs)
+
+## 2. V-editor for Developers
+(Text paragraphs)
+
+## 3. Engine Support
+(Text paragraphs)
+
+## 4. Blockchain Features
+(Text paragraphs)
+
+(Insert header image)
+
+# **Section C: The Valireum Ecosystem**
+## 1. The Autonomous Mnetization System
+(Text paragraphs)
+
+## 2. Investor Options & Opportunities
+(Text paragraphs)
+
+## 3. Tokenization & Virtual Assets
+(Text paragraphs)
+
+## 4. Incentives
+(Text paragraphs)
+
+## 5. Relevant Market Trends
+(Text paragraphs)
+
+## <div align="center">Summary</div>
+(Summary Statement)
