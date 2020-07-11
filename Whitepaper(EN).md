@@ -64,7 +64,7 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 ####   4. Incentives
 ####   5. Market trends/statistics in gaming industry
 
-### **Summary:**
+### **Summary**
 
 
 
