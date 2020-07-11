@@ -16,6 +16,15 @@ https://www.valireum.net</div>
 
 
 ### <div align="center">Abstract</div>
+Valireum is a Blockchain based ecosystem utilizing the Ethereum network to deliver innovative solutions to the gaming industry. Our platform aims to support Developers, Consumers and Investors with new incentives that fundamentally change the way value is created and shared. With Valireum, developers are assited with the tools to create and deploy large-scale games without the overhead costs and risks involved with a traditional development studio. WE cator to industry professionals and novice user in a way that is both user friendly while producing quality products. Investors in Valireum can enjoy new pipeline options of revenue, with a variety of options that allow for better diversification, efficiency and control of targetted asset specifics. Valireum will also redifine the role of the consumer - broadening oppotunities in a way that rewards them for their participation. In addition, through tokenization and smart contracts Valireum will leverge such technology to create a direct revenue marketplace for digital assets that it's community can create, trade and share. 
+
+The Valireum platform will consist of "Planets" which represent the canvis of new games and idea for Developers and users to freely build upon. These Planits can be purchased with the use of the Valireum Token VLM - a non fungible and transferrable token stored in an Ethereum smart contract. Planets can be leased and rented out by investors, or Traded and sold to anyone, to be used as the foundation layer for games and assets built on it. In addition to Planets, each game created on these planets will have the option for users to also tokenize smaller virtual assets utilized within the games. Both items and planets will populate a decentalized marketplace with the support of secure ownership and trensferal. 
+
+As the gaming industry rapidly grows and expands, consumer demand for greater quality comes with it. The definition of such quality comes in many forms - the level of immersion with graphics, fairness and meaningful challenge in gameplay, and social connectedness of larger micro-communities. These trends have influenced the way game studios make decisions on how to balance greater expectations with risk and revenue strategies. The fact is, the industry core dynamics have been changing dramatically, from traditional consumer/product exchange markets, to consumer/consumer exchange markets that leverage the product. In several cases we are now seeing consumers on the payroll of studios with network marketing and content creators. Gamers are making a career of streaming, alongside widely sponsored 'eSport' events. Much has changed in the way money, goods and services exchange in the gaming industry - and providing a more efficient strategy to meet these changes is in critical need. 
+
+What Valireum aims to achieve, is an Intelligent approach to the modern day gaming industry - addressing a vast range of complications from asset security, development efficiency, risk management, investor options and customization, and new incentives for all participants. We wish to deliver a no-compromise approach that creates a better deal and greater value for Consumers, Developers and Investors alike. With the power of Blockchain, and smarter applications to monitization of gaming, we believe we have the answer. 
+
+What is the future of gaming? Valireum. 
 
 <div align="center"> 
 
@@ -34,7 +43,7 @@ https://www.valireum.net</div>
 ####   4. Use Case and Applications
 
 ### **Section B: Our Technology:**
-####   1. The Network
+####   1. The Network & Infastructure
 ####   2. V-editor for Developers
 ####   3. Engine Support
 ####   4. Blockchain Features
@@ -47,7 +56,10 @@ https://www.valireum.net</div>
 ####   5. Relevant Market Trends
 
 ### **Summary**
-
+####   1. Valireum Outlook
+####   2. Disclaimer
+####   3. Notes
+####   4. Further Reading
 --------------------------------------------------------------------------------------------------------------------
 
 (Insert header image)
@@ -84,7 +96,7 @@ Services:
 (Insert header image)
 
 # **Section B: Our Technology**
-## 1. The Network 
+## 1. The Network & Infastructure
 
 - Scalable database, notification system, API event/triggers.
 
