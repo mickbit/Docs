@@ -45,24 +45,24 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 
 **Table of content:**
 
-## **Objective:**
-## Problems/Limitations in current ecosphere
-## VLM Solutions
-## Game Developers
-## Applications/use case
+## **Section A: Mission Objectives**
+###   1. Problems/Limitations in current ecosphere
+###   2. Valireum Solutions
+###   3. Game Developers
+###   4. Applications/use case
 
-## **Technology:**
-### Network
-### V-editor
-### Engine
-### Blockchain features
+## **Section B: Our Technology:**
+###   1. Network
+###   2. V-editor
+###   3. Engine
+###   4. Blockchain features
 
-## **VLM Ecosystem:**
-### Monetization system
-### Investors
-### Tokenization 
-### Incentives
-### Market trends/statistics in gaming industry
+## **Section C: The Valireum Ecosystem:**
+###   1. Mnetization system
+###   2. Investors
+###   3. Tokenization 
+###   4. Incentives
+###   5. Market trends/statistics in gaming industry
 
 ## **Summary:**
 
