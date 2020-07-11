@@ -63,12 +63,17 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 (Text paragraphs)
 
 ## 4. Use case and Applications
-(Text paragraphs)
+Online game hosting service with scalable dedicated computing power, players matchmaking, and queue configurable tools.
+Use cases examples:
+SMALL-PLANET is recommended for games like Battleground PUBG style, FPS shooter, etc.
+LARGE-PLANET is recommended for massively multiplayer games with or without an open world.
 
 (Insert header image)
 
 # **Section B: Our Technology**
 ## 1. The Network 
+
+- Scalable database, notification system, API event/triggers.
 
 AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
  AWS services can offer an organization tools such as compute power, database storage and content delivery services.
@@ -94,7 +99,7 @@ For example, AWS will provide a developer back-end services, analytics and devel
 With Amazon handing bandwidth and the cloud, you can focus on making beautiful environments and compelling characters with fun, engaging storylines.Technical artists will find a suite of tools at their disposal including physically-based shaders, dynamic global illumination, particle effects, and volumetric fog.)
 
 ## 2. V-editor for Developers
-(Text paragraphs)
+V-Editor: Game developing tool that can update your game world in real-time.
 
 ## 3. Engine Support
 
@@ -117,7 +122,7 @@ Projects built in Unreal Engine 4 will be compatible with (and can be moved to) 
 
 
 ## 4. Blockchain Features
-(Text paragraphs)
+VLM - Valireum’s fungible, ERC20 cryptocurrency token, that will be used throughout the Valireum Ecosystem as our main currency with which users will be able to perform any type of payment. 
 
 (Insert header image)
 
@@ -126,10 +131,33 @@ Projects built in Unreal Engine 4 will be compatible with (and can be moved to) 
 (Text paragraphs)
 
 ## 2. Investor Options & Opportunities
-(Text paragraphs)
+SHARE - a Non-Fungible Token (NFT), guarantees to the holder a percentage of the Investors Fund. The Investors Fund is formed by 25% of all in-game items and  NFTs sales, as well as 45% of all the Ads income of the Valireum Universe. 
+
+The PLANETS owners will be free to sell or trade their creations, items, and planets in the Valireum Marketplace and in any existing NFT marketplace on the Ethereum blockchain.
+
+SHARES max supply: 10000 Shares(NFT) (each token represent 0.01% of the total investor's shares).
 
 ## 3. Tokenization & Virtual Assets
-(Text paragraphs)
+Valireum is a Virtual Universe which has three distinct digital assets, each one with unique attributes and different value. 
+
+This utility token will allow you to buy PLANETS and the items you may need, to create your extraordinary experiences.
+VLM max Supply: 50 000 000 VLM
+
+WORLDS - a NFT token. Each WORLD is a unique collectible item 
+which guarantees access to the following Valireum services and tools:
+
+Worlds tokens supply 1050(Scalable) divided into two categories:
+
+1. Large-Planet: 300 tokens - Size(15Km*15km)
+2. Small-Planet: 750 tokens - Size(6km*6km)
+
+
+Each PLANET and SHARE is tokenized as an ERC-721 non-fungible token (NFT) that uses the transparency of public distributed ledger technology to track their uniqueness with individual identities and properties and enable true digital ownership. Overall, to generate real value in the Valireum Ecosystem. 
+
+The PLANETS are the canvas on which you can create your amazing experiences. As an owner, you will have the full creative freedom to build your own game or ecosystem by deploying your own Ethereum contract and token, including the ability to sell or rent your Planets.
+
+The PLANETS owners will be free to sell or trade their creations, items, and planets in the Valireum Marketplace and in any existing NFT marketplace on the Ethereum blockchain.
+
 
 ## 4. Incentives
 (Text paragraphs)
