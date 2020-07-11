@@ -23,25 +23,7 @@ Valireum treats game developers as partners and offers a complete solution to bu
 
 The Valireum world is distributed in form of non-fungible tokens(NFT) in the Ethereum blockchain which means anyone holding a token has a instant access to all the services that Valireum provides. these tokens will be sold to investors during the public offer later when the beta version is released.</div>
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
+--------------------------------------------------------------------------------------------------------------
 
 **Table of content:**
 
@@ -65,6 +47,8 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 ####   5. Market trends/statistics in gaming industry
 
 ### **Summary**
+
+--------------------------------------------------------------------------------------------------------------------
 
 
 
