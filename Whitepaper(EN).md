@@ -65,6 +65,7 @@ What is the future of gaming? Valireum.
 (Insert header image)
 
 # **Introducation**
+(paragraphs text)
 
 # **Section A: Mission Objectives**
 ## 1. Problems and Limitations 
