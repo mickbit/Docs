@@ -17,7 +17,24 @@ https://www.valireum.net</div>
 
 ### <div align="center">Abstract</div>
 
-<div align="center">Nowadays, the online gaming development, hosting and management is limited to large scale game studios, even if you are a skilled game developer, you won't be able to host and manage your game without paying a high monthly fee to third-party services that have no guarantee of success, in other words, if your game succeeds the service provider will happily scale and get more profit, if not you are the only one whos losing money.
+<div align="center">This paper presents a realisable vision for the future of gaming built on top of the Ethereum Blockchain first, and then on the Valireum Platform, to manage increasingly complex and appealing game worlds as well as securing and simplifying the ownership, sharing, and trade of virtual assets.
+
+Valireum achieves this through the democratisation of game development and deployment, allowing developers to bring their vision to life quickly, without costs. 
+Valireum treats game developers as partners and offers a complete solution to build games from scratch with free hosting services to kickstart. If the game is successful Valireum hosting services will scale, and unlike other providers, the Valireum platform will pay the developers loyalties for each new player connected to the game.
+
+It will provide a wealth of templates, tools and a state-of-the-art infrastructure for game developers to build their own games. Fully decentralized, autonomous games where players have provably fair gameplay with true ownership of their in-game items.
+Until now scaling has been a major difficulty for blockchains and particularly for massive game worlds and their virtual asset creations. 
+Since Valireum world is distributed in form of non-fungible tokens(NFT) in the Ethereum blockchain, this means anyone holding a token has a instant access to all the services that Valireum provides. 
+
+Furthermore, developers can fully leverage the Valireum Universe to create their own Ecosystems and currency that can be traded easily in ......................???????? 
+
+
+Cryptocurrency and blockchain technology are  having a significant impact on the gaming sector, which is expected to become a $154 bilion global industry by 2021. That is why it can be said that the gaming industry is one of the fastest growing tech industries in the world. The potential of cryptocurrency technologies in games is practically untapped and we are only starting! 
+We see the blockchain as a transformational technology where games transcend the virtual and take on a life of their own in the real world.
+Just like in the world of finance where investors require a safe environment to carry out their transactions, gamers require a safe platform to develop their own games. 
+What we proposed  is gaming using the blockchain to provide a secure, decentralised, autonomous, and flexible platform upon which a variety of games and projects can be built. Valireum is the world’s first fully capable decentralized virtual ecosystem meant to help game creators, developers, realize and distribute their vision. 
+ 
+ Nowadays, the online gaming development, hosting and management is limited to large scale game studios, even if you are a skilled game developer, you won't be able to host and manage your game without paying a high monthly fee to third-party services that have no guarantee of success, in other words, if your game succeeds the service provider will happily scale and get more profit, if not you are the only one whos losing money.
 
 Valireum treats game developers as partners and offers a complete solution to build games from scratch with free hosting services to kickstart, if the game is successful Valireum hosting services will scale, and unlike other providers, the Valireum platform will pay the developers loyalties for each new player connected to the game.
 
