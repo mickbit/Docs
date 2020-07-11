@@ -71,10 +71,14 @@ The Valireum world is distributed in form of non-fungible tokens(NFT) in the Eth
 
 # **Section A: Mission Objectives**
 ## 1. Problems and Limitations 
-(Text paragraphs)
+Assume you are a talented developer with a great idea for a killer game app, however, you have no experience in the gaming industry. Centralized gaming companies operate in a highly competitive environment and experience is of premium value for them. You will likely wait a while before you land that job in a gaming company to develop that killer game of yours.
 
 ## 2. Valireum Solutions
-(Text paragraphs)
+What Valireum is offering to game developers?
+
+Valireum offers flexibility and scalability to game developers by providing an all-in-one solution with features such as:
+
+Multiplayer game hosting, matchmaking, instant notifications, scalable database and servers, DDOS protection, games templates, game building tools, real-time test and build and much more. the access to all these services is free of charge up to 6 months.
 
 ## 3. Game Developers
 (Text paragraphs)
@@ -84,6 +88,13 @@ Online game hosting service with scalable dedicated computing power, players mat
 Use cases examples:
 SMALL-PLANET is recommended for games like Battleground PUBG style, FPS shooter, etc.
 LARGE-PLANET is recommended for massively multiplayer games with or without an open world.
+
+Services:
+
+1. Game creator editor.(Tools)
+2. Game hosting service and management.
+3. Online Matchmaking, notifications, chat, and player queue services.
+4. Ethereum contracts deployment and integration services.
 
 (Insert header image)
 
@@ -154,6 +165,14 @@ The PLANETS owners will be free to sell or trade their creations, items, and pla
 
 SHARES max supply: 10000 Shares(NFT) (each token represent 0.01% of the total investor's shares).
 
+Valireum source of income:
+
+1: Game items sold to players each week, the money received will be divided between (35%)game dev, (40%)platform and (25%)GameShares holders(sold in the private sales).
+
+2: meshes, materials, animations, etc.. items and features sold to developers, the money divided between the platform(75%) and GameShares holders(25%).
+
+3: Advertisement income: divided between game dev(35%) and GameShares holders(45%) platform (20%).
+
 ## 3. Tokenization & Virtual Assets
 Valireum is a Virtual Universe which has three distinct digital assets, each one with unique attributes and different value. 
 
@@ -177,10 +196,20 @@ The PLANETS owners will be free to sell or trade their creations, items, and pla
 
 
 ## 4. Incentives
-(Text paragraphs)
+Valireum source of income:
+
+1: Game items sold to players each week, the money received will be divided between (35%)game dev, (40%)platform and (25%)GameShares holders(sold in the private sales).
+
+2: meshes, materials, animations, etc.. items and features sold to developers, the money divided between the platform(75%) and GameShares holders(25%).
+
+3: Advertisement income: divided between game dev(35%) and GameShares holders(45%) platform (20%).
 
 ## 5. Relevant Market Trends
 (Text paragraphs)
 
 ## <div align="center">Summary</div>
-(Summary Statement)
+(Summary Statement and Disclaimer)
+<div align="center"> The given information in this Valireum white paper may not be exhaustive and does not imply any contractual relationship. This paper is for information purposes only and does not constitute and is not intended to be an offer of securities or any other financial or investment instrument in any jurisdiction. Any reader should be advised that the purchase of our tokens may involve high risks. 
+ It is the responsibility of the potential participant or contributor to ensure that participation in any of the sales is not prohibited under the applicable laws of said participant’s or contributor’s country of residence or domicile.
+This version and future versions of the white paper may be modified at any time.
+The Valireum platform is world’s first fully capable decentralized virtual ecosystem and maintained by.............,... ..................officially registered in UAE respectively under company no............................................ </div>
