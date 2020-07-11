@@ -17,8 +17,8 @@ https://www.valireum.net</div>
 
 ### <div align="center">Abstract</div>
 
-
 <div align="center">Text paragraph here - A brief summery of main headings - purpose is to introduce what comes next in its order!</div>
+
 
 
 
