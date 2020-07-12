@@ -182,9 +182,7 @@ Valireum source of income:
 3: Advertisement income: divided between game dev(35%) and GameShares holders(45%) platform (20%).
 
 ## 3. Tokenization & Virtual Assets
-Valireum is a Virtual Universe which has three distinct digital assets, each one with unique attributes and different value. 
-
-This utility token will allow you to buy PLANETS and the items you may need, to create your extraordinary experiences.
+The Valireum ecosystem consists of three distinct digital assets, each one with unique attributes and different value. These are, the Utility Token, Planets, and Virtual Items. The utility token will allow you to buy 'PLANETS' and the items you may need, to create your extraordinary experiences. Meanwhile individual virtual items can also be created, traded and shared within the Valireum marketplace. 
 VLM max Supply: 50 000 000 VLM
 
 WORLDS - a NFT token. Each WORLD is a unique collectible item 
