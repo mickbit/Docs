@@ -81,7 +81,14 @@ Moving on to the topic of developers skillset, we understand that with highly co
 
 Lastly, when we consider the larger investors in our current and traditional ecosphere, they are investing into a gaming company as a whole entity. That means they can expect diminished returns due to games that the company launched that did not do so well. They way in which Valireum approaches the investment side of things is much more customizable - allowing Investors to not only support whole companies, but also individual games exlcusively while removing exposure to a whole company. 
 
+(add - blockchain gaming scalability issues, transaction fees and speed issues, market reach accesibility)
+
 ## 2. Valireum Solutions
+
+Looking over current and previous attempts to bring viable and real-time gaming to blockchain, several issues have arised such as bloated transaction fees and netowrk clogging that results in a poor user experience. With Valireum we have a different approach that removes this issue entirely. We utilize an additional layer that will manage all transactional exchanges interdependantly from the platform itself. Users will have the option to withdraw, depost and store assets from any smart contract blockchain and to any smart contract blockchain. The feature of interoperability occurs parallel to the platform the a robust and secure way, that quaranteins Valireum from any issue that would otherwise affect game performance, transaction speed, transaction cost, and secure storage of assets. 
+
+The platform has three distinct operations - hosting of a marketplace auction for users to trade and share virtual items, an interopable feature of secure asset storage, deposite and withdrawl, and a streamlined asscessibility to blockchain enthusiast and non-enthusiasts alike. Gaming is indeed a large industry, and our platform targets that wider audiance with high performance games and reliability that they know, while simultaniously functioning as a gateway bridge to blockchain ecosystems and features. 
+
 What Valireum is offering to game developers?
 
 Valireum offers flexibility and scalability to game developers by providing an all-in-one solution with features such as:
@@ -158,6 +165,8 @@ Projects built in Unreal Engine 4 will be compatible with (and can be moved to) 
 
 
 ## 4. Blockchain Features
+
+
 VLM - Valireum’s fungible, ERC20 cryptocurrency token, that will be used throughout the Valireum Ecosystem as our main currency with which users will be able to perform any type of payment. 
 
 (Insert header image)
